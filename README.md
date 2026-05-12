@@ -24,6 +24,7 @@
 * Designer / _Sulki & Min_ / http://www.sulki-min.com/wp/
 * Designer / _Kyuho Kim_ / https://kimkyuho.com/
 * Illustator / _MORAE_ / http://shinmorae.com/
+* Developer / _Parish Khan_ / https://parish.cv
 
 ## Promotion
 
